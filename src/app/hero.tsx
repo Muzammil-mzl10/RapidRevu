@@ -11,16 +11,15 @@ function Hero() {
         <div className="container mx-auto mt-32 grid h-full w-full grid-cols-1 place-items-center lg:mt-14 lg:grid-cols-2">
           <div className="col-span-1">
             <Typography variant="h1" color="white" className="mb-4">
-              Your Perfect <br /> Learning App
+              Your Perfect <br /> Dummy Text
             </Typography>
             <Typography
               variant="lead"
               className="mb-7 !text-white md:pr-16 xl:pr-28"
             >
-              Our app is here to empower you on your quest for knowledge,
-              anytime and anywhere.
+             Lorem ipsum dolor sit, amet consectetur adipisicing elit. Perspiciatis dolore dolorum amet quae voluptate nemo quibusdam, minima voluptates facere voluptatem beatae explicabo veniam.
             </Typography>
-            <Typography className="mb-4" color="white" variant="h6">
+            {/* <Typography className="mb-4" color="white" variant="h6">
               Get the app
             </Typography>
             <div className="flex flex-col gap-2 md:mb-2 md:w-10/12 md:flex-row">
@@ -52,7 +51,7 @@ function Hero() {
                 />
                 Google Play
               </Button>
-            </div>
+            </div> */}
           </div>
           <Image
             width={470}
@@ -66,15 +65,13 @@ function Hero() {
       <div className="mx-8 lg:mx-16 -mt-24 rounded-xl bg-white p-5 md:p-14 shadow-md">
         <div>
           <Typography variant="h3" color="blue-gray" className="mb-3">
-            Learning App
+            Dummy Text
           </Typography>
           <Typography
             variant="paragraph"
             className="font-normal !text-gray-500 lg:w-5/12"
           >
-            Download our app to dive into a vast library of courses, tutorials,
-            and study materials on a wide range of subjects - from programming
-            and language learning to personal development and beyond
+           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Similique ratione corporis dicta porro, incidunt nihil aperiam, ex modi cumque soluta dignissimos harum eaque?
           </Typography>
         </div>
       </div>

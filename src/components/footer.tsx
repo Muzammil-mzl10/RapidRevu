@@ -22,7 +22,7 @@ export function Footer() {
               Material Tailwind
             </Typography>
             <Typography color="white" className="mb-12 font-normal">
-              The reward for getting on the stage is fame.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
             </Typography>
             <ul className="flex flex-wrap items-center justify-center md:justify-start">
               {LINKS.map((link, idx) => (
@@ -41,7 +41,7 @@ export function Footer() {
               ))}
             </ul>
           </div>
-          <div className="mt-8 w-full md:mt-0 md:w-auto">
+          {/* <div className="mt-8 w-full md:mt-0 md:w-auto">
             <Typography variant="h6" color="white" className="mb-3">
               Get the app
             </Typography>
@@ -73,7 +73,7 @@ export function Footer() {
                 Google Play
               </Button>
             </div>
-          </div>
+          </div> */}
         </div>
         <div className="mt-16 flex flex-wrap items-center justify-center gap-y-4 gap-x-8 border-t border-gray-700 py-7 md:justify-between">
           <Typography
@@ -81,12 +81,12 @@ export function Footer() {
             className="text-center font-normal opacity-75"
           >
             &copy; {CURRENT_YEAR} Made with{" "}
-            <a href="https://www.material-tailwind.com" target="_blank">
-              Material Tailwind
+            <a href="https://muzammil.vercel.app/" target="_blank">
+              Rapid Revu
             </a>{" "}
             by{" "}
-            <a href="https://www.creative-tim.com" target="_blank">
-              Creative Tim
+            <a href="https://muzammil.vercel.app/" target="_blank">
+              Muzammil
             </a>
             .
           </Typography>

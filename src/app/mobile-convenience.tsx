@@ -8,19 +8,19 @@ import { Typography, Card, CardBody } from "@material-tailwind/react";
 const OPTIONS = [
   {
     title: "100",
-    description: "Learning Courses",
+    description: "Dummy",
   },
   {
     title: "500+",
-    description: "Expert Instructors",
+    description: "Dummy",
   },
   {
     title: "24/7",
     description: "Support",
   },
   {
-    title: "5/5",
-    description: "Review Stars",
+    title: "10/10",
+    description: "Analytics",
   },
 ];
 
